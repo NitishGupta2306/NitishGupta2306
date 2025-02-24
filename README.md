@@ -6,17 +6,16 @@
 
 - 🔭 I’m currently working on:                                                   
 
-  - **CalShared: an IoS app for simpler scheduling**
+  - **IBM's Course for Applied DevOps Engineering**
 
 - 🌱 I’m currently learning
-  - **CoreML**
-  - **SwiftUI**
-  - **Penetration Testing**
+  - **CI/CD**
+  - **DevOps/Agile Tools**
 
 - 🤝 I’m looking to work on:
-  - **Penetration Testing Projects**
-  - **Machine Learning Projects**
   - **DevOps Projects**
+  - **SRE Projects**
+  - **Teams with DevOps/Agile methodologies**
 
 - 📫 How to reach me **nitishgupta2306@gmail.com**
 

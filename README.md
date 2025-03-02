@@ -7,6 +7,7 @@
 - 🔭 I’m currently working on:                                                   
 
   - **IBM's Course for Applied DevOps Engineering**
+  - **Generated reports for a regional office in BNI**
 
 - 🌱 I’m currently learning
   - **CI/CD**

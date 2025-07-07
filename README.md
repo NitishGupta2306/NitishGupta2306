@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nitish Gupta</h1>
-<h3 align="center">I am a full stack developer from UC Davis</h3>
+<h3 align="center">I am a SWE at Thrive 
 
 ![](https://komarev.com/ghpvc/?username=NitishGupta2306&color=blue) 
 
